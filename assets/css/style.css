@@ -1,0 +1,23 @@
+
+
+body {
+	
+	background: url(../images/background.gif) center center no-repeat fixed #464646;
+
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    color: #ffffff;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.clickableAwesomeFontTrashIcon {
+     cursor: pointer;
+}
